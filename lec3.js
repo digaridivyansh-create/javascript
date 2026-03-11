@@ -53,12 +53,12 @@ for(let i=0;i<100;i++){
 
 console.log(sum);*/
 
-/*let gamenum=25;
+let gamenum=25;
 let usernum = prompt("guess the number");
 while(usernum!=gamenum){
     usernum=prompt("wrong guess, try again");
 }
-console.log("congratulations! you guessed the number");*/
+console.log("congratulations! you guessed the number");
 
 /*et str="hello world";
 console.log(str[0]);
